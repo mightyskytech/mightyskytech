@@ -43,7 +43,7 @@ London-based IT company supporting businesses across the UK — managed IT, clou
 
 ## Recent work
 
-- **TaxBox** — UK PAYE take-home pay calculator (React)
+- **[TaxBox NG](https://github.com/mightyskytech/taxbox)** — Lagos PAYE calculator for the Nigeria Tax Act 2026, with role-based dashboards, batch payroll and an AI tax assistant (React + TypeScript, Node.js)
 - **Client websites** — business and CMS sites for consultancy, care and aesthetics clients
 - **AI apps** — an AI vocal-accompaniment music generator and an interview-confidence coaching app
 
